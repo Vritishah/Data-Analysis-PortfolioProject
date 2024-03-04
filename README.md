@@ -1,4 +1,5 @@
 Sales Analysis of ABC Company
+
 Requirement of the project:
 1.	Top 5 and Bottom 5 products by sale (Ribbon chart to know the ranks of the products)
 2.	Sales by region
@@ -10,6 +11,7 @@ Requirement of the project:
 8.	Top 5 and Bottom 5 products by cost
 9.	5 most and 5 least ordered products
 10.	Relationship between sales and quantity ordered
+
 Steps
 Option 1 - Loaded data in Power BI – One Excel at a time
 Option 2 – Load data – get data > More > Folder > Select entire folder and click (combine and load)/(combine and transform)
